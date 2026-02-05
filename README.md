@@ -52,7 +52,7 @@ git clone https://github.com/darsh4510/autodock-installer.git
 cd autodock-installer
 chmod +x install.sh
 ./install.sh
-
+```
 The installer will:
 
     Create /home/<user>/software
